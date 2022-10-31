@@ -70,8 +70,7 @@ button {
 }
 .button:hover,
 .edit:hover {
-    color: #3a3A3a;
-    /*TODO: lowercase this*/
+    color: #3a3a3a;
 }
 /* Heading */
 .tasks-heading,
@@ -90,10 +89,8 @@ button {
     line-height: 18px;
     height: 21px;
     padding: 0 9px;
-    border: 1px solid #dDd;
-    /*TODO: lowercase this*/
-    background: #FFF;
-    /*TODO: lowercase this*/
+    border: 1px solid #ddd;
+    background: #fff;
     border-radius: 6px;
     font-family: Lato, sans-serif;
     color: #888;
