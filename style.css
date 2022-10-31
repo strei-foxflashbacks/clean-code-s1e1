@@ -152,16 +152,16 @@ button {
 }
 
 /* Edit Task */
-.list .list__item .task-input {
+.list__item .task-input {
     display: none;
 }
 
-.list .list__item_edit .task-input {
+.list__item_edit .task-input {
     display: inline-block;
     width: 224px;
 }
 
-.list .list__item_edit .task-label {
+.list__item_edit .task-label {
     display: none;
 }
 
